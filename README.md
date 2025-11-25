@@ -1,13 +1,18 @@
 # -Measurement-of-low-resistance-by-Kelvin-s-Double-Bridge.
                                                           EXPERIMENT-4
-                        Measurement of low resistance by Kelvin’s Double Bridge.
-AIM: The Aim of this experiment is to measurement of low resistance by Kelvin’s Double Bridge
+                                  Measurement of low resistance by Kelvin’s Double Bridge.
+AIM: 
+The Aim of this experiment is to measurement of low resistance by Kelvin’s Double Bridge
 Introduction
+
 A kelvin bridge or kelvin double bridge is a modified version of the Wheatstone bridge, which can measure resistance values in the range between 1 to 0.00001 ohms with high accuracy. It is named because it uses another set of ratio arms and a galvanometer to measure the unknown resistance value. The basic operation of the Kelvin double bridge can be understood from the basic construction and operation of the kelvin bridge.
 
 Principle of Kelvin Bridge
+
 A Wheatstone bridge is used to measure resistance equal to or greater than 1 ohm, but if we want to measure the resistance below 1 ohm, it becomes difficult because the leads which are connected to the galvanometer adds up the resistance of the device along with the resistance of leads leading to variation in the measurement of the actual value of resistance. Hence, In order to overcome this problem, we can use a modified bridge called kelvin bridge.
+
 Derivation for Finding Unknown Resistance Value
+
            The Kelvin bridge is of resistance “r” which connects “R” ( unknown resistor ) to standard resistor “S”. The resistance value can be viewed in the galvanometer (from “m to n”). If the pointer in the galvanometer shows at “m”. It means, the resistance value is less and if the pointer shows at “n” means the resistance value is high. Hence rather by connecting galvanometer to “ m and n “ we choose another intermediate point “d” in kelvin bridge as shown in Fig. 1
 
 <img width="530" height="506" alt="image" src="https://github.com/user-attachments/assets/5e98a45c-9a3a-4da4-acae-35a5a26abd28" />
@@ -15,7 +20,9 @@ Fig. 1 Kelvin Bridge
 The value of resistance can be calculated as follows:
 <img width="940" height="646" alt="image" src="https://github.com/user-attachments/assets/adf47500-f010-46ba-8122-7dfeccf9014b" />
 From the above equation, we can say that by connecting the galvanometer at point “d” there will be no effect in the measurement of the actual resistance value, but the only disadvantage of this process is that it is difficult to implement, hence we use a Kelvin double bridge for getting accurate low resistance value.
+
 Kelvin Double Bridge
+
             The construction of Kelvin double bridge is similar to the wheatstone bridge, but the only difference is it consists of 2 arms “P & Q”, “p & q” where the arm “p & q” is connected to one end of the galvanometer, at “d” and “P & Q” is connected to another end of the galvanometer, at ‘b’. This connection minimizes the effect of connecting lead and the unknown resistor R & a standard resistor S is placed between ” a and m”, and “n and c” respectively.
 <img width="698" height="363" alt="image" src="https://github.com/user-attachments/assets/4571f61c-ffc1-4709-9064-40c58a74b1cb" />
 Fig. 2 Kelvin double bridge circuit
@@ -78,6 +85,8 @@ Figure 1: The circuit diagram for experimental set-up of Kelvin Double Bridge
 7.	Repeat step 5 through step 6 for different line currents 3A, 4A and 5A.
 Simulation:
 <img width="940" height="685" alt="image" src="https://github.com/user-attachments/assets/a8ebdae3-aa7a-40a3-a485-3276b25ff9c8" />
+
 Result:
+
  Thus unknown Resistance is Found Using Kelvin Double Bridge.
 
